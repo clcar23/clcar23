@@ -1,4 +1,3 @@
-
 - 🔭 I’m currently working becoming a software developer! 
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on anything that will strengthen my skills.
