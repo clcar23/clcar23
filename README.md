@@ -1,5 +1,5 @@
 - 🔭 I’m currently working at becoming a better software developer! 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently looking for a developer job!
 - 👯 I’m looking to collaborate on anything that will strengthen my skills.
 - 🤔 I’m looking for help with anything and everything! 
 - 💬 Ask me about how the studying and job search are going.
